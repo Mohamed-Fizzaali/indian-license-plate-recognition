@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.PlateCapture" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#176B87</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#101820</item>
+        <item name="android:navigationBarColor">#101820</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

@@ -1,5 +1,16 @@
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
 .ipynb_checkpoints/
 .vscode/
+.idea/
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+audit_backups/
+alpr_output_*/
+.DS_Store
+Thumbs.db
